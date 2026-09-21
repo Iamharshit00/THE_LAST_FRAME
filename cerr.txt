@@ -1,0 +1,1 @@
+audio: opened 22050 Hz, 1 ch
